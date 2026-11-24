@@ -73,7 +73,7 @@ Customer reviews contain non-linear word interactions, subtle intensity cues, an
 ```text
 amazon-review-sentiment-ann/
 ├── Amazon_Review_sentiment_Analysis_ANN_.ipynb  # Training, evaluation, plots & artifact export
-├── app (1).py                                   # Streamlit inference web application
+├── app.py                                   # Streamlit inference web application
 ├── final_ann_model.keras                        # Saved Keras Sequential ANN model
 ├── tfidf_vectorizer.pkl                         # Fitted TF-IDF vectorizer
 ├── requirements.txt                             # Python dependencies for deployment
