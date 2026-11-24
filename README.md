@@ -1,9 +1,9 @@
-# Amazon Review Sentiment Analysis (ANN)
+# Amazon Fine Food Reviews Sentiment Analysis (ANN)
 
 An end-to-end multi-class sentiment and star-rating (1–5) prediction system built on the **Amazon Fine Food Reviews** dataset using **TF-IDF** feature extraction and a **TensorFlow/Keras Sequential Artificial Neural Network (ANN)**, deployed interactively via **Streamlit Community Cloud**.
 
-- **Live App:** [Amazon Review Sentiment Analysis (ANN)](https://amazon-review-sentiment-ann-x5ssggoa8n6nmtbncfnuq.streamlit.app)
-- **GitHub Repository:** [HruthwikThota/amazon-review-sentiment-ann](https://github.com/HruthwikThota/amazon-review-sentiment-ann)
+- **Live App:** [Amazon Fine Food Reviews Sentiment Analysis (ANN)](https://amazon-fine-food-reviews-sentiment-ann-iuncnxeyzttm5onn7vehun.streamlit.app)
+- **GitHub Repository:** [HruthwikThota/amazon-fine-food-reviews-sentiment-ann](https://github.com/HruthwikThota/amazon-fine-food-reviews-sentiment-ann)
 
 ---
 
